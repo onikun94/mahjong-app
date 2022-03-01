@@ -1,0 +1,4 @@
+*.png
+.python-version
+pylintrc
+.vscode
